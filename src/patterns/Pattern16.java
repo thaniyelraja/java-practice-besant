@@ -1,0 +1,25 @@
+package patterns;
+
+public class Pattern16 {
+
+	public static void main(String[] args) {
+		/*
+		 * " 1 2 3 4 5
+		 *   2 3 4 5 6
+		 *   3 4 5 6 7
+		 *   4 5 6 7 8
+		 *   5 6 7 8 9 "
+		 */
+		int x;
+		for (int i = 1; i <= 5; i++) {
+			x = i;
+			for (int j = 1; j <= 5; j++) {
+
+				System.out.print(x++ + " ");
+			}
+			System.out.println();
+		}
+
+	}
+
+}
