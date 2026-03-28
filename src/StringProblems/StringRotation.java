@@ -1,4 +1,4 @@
-package StringProblems;
+package stringproblems;
 
 public class StringRotation {
 	public static void main(String[] args) {

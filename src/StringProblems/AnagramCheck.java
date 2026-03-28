@@ -1,4 +1,4 @@
-package StringProblems;
+package stringproblems;
 
 import java.util.Arrays;
 

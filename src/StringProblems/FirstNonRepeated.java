@@ -1,4 +1,4 @@
-package StringProblems;
+package stringproblems;
 
 public class FirstNonRepeated {
 	public static void main(String[] args) {

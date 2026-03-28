@@ -1,4 +1,4 @@
-package ArrayProblems;
+package arrayproblems;
 
 public class PrintNNumberStoredInArray {
 	public static void main(String[] args) {
